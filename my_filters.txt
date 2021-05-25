@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: tagener-noisu's block list
+! Homepage: https://github.com/tagener-noisu/adblock_filters/
+! Licence: https://creativecommons.org/licenses/by-sa/4.0/
+
 ! 2021-05-25 https://www.quora.com
 www.quora.com##.qu-zIndex--alert
 www.quora.com##.q-box:style(position: static !important)
