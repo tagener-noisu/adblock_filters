@@ -1,0 +1,4 @@
+! 2021-05-25 https://www.quora.com
+www.quora.com##.qu-zIndex--alert
+www.quora.com##.q-box:style(position: static !important)
+www.quora.com##.q-box:style(filter: blur(0px) !important)
