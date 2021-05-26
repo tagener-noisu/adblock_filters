@@ -7,3 +7,10 @@
 www.quora.com##.qu-zIndex--alert
 www.quora.com##.q-box:style(position: static !important)
 www.quora.com##.q-box:style(filter: blur(0px) !important)
+
+! 2021-05-26 https://www.reddit.com
+www.reddit.com##.XPromoInFeed
+www.reddit.com##.TopNav__promoButton
+www.reddit.com##.m-active.XPromoPopup
+www.reddit.com##.scroll-disabled:style(overflow: auto !important)
+www.reddit.com##.scroll-disabled:style(position: static !important)
